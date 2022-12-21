@@ -1,17 +1,17 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> asdaf hihi haha iya  testign abc</h1>
-    <h2> satu aws satu dua tiga testign abcdefg</h2>
+    <h1> Learning by doing</h1>
+    <h2> Learning is Key</h2>
 
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>isi Name</b></label>
+    <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
-    <input type="text" placeholder="Enter isi le number" name="mobile" id="mobile" required>
+    <input type="text" placeholder="Enter your number" name="mobile" id="mobile" required>
     <br>
 
     <label for="email"><b>Enter Email</b></label>
